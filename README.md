@@ -1,4 +1,4 @@
-# MyPdfChat - Private PDF Chat based on local model can run any PC.
+# MyPdfChat - Private PDF Chat based on LLM can run on any PC.
 
 **MyPdfChat** is using a private 7B RWKV language model designed to run locally and facilitate secure PDF-based chat conversations. With RWKV, you can have confidential and encrypted conversations in PDF format, ensuring the privacy of your discussions.
 ## Features
