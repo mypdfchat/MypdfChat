@@ -9,9 +9,9 @@
 ## Installation
 - To install RWKV from the release, follow these instructions:
 - ### Step 1:
-- Download the Release1. Go to the [RWKV GitHub repository](https://github.com/your-username/rwkv/releases).2. Download the latest release package (`rwkv-vX.X.X.zip`).
+- Download the Release1. Go to the [Mychatpdf huggingface repo](https://huggingface.co/MyPdfChat/MyPdfChat).2. Download the latest release zip (`mychatpdf-vX.X.X.zip`).
 - ### Step 2:
-- Extract the Release1. Locate the downloaded `rwkv-vX.X.X.zip` file on your system.2. Extract the contents of the zip file to a directory of your choice.
+- Extract the Release1. Locate the downloaded `mychatpdf-vX.X.X.zip` file on your system.2. Extract the contents of the zip file to a directory of your choice.
 - ### Step 3:
 - Configure RWKV1. Open the extracted directory.2. Locate the `config.yaml` file and open it in a text editor.3. Customize the configuration options according to your preferences. You can specify the desired PDF template, encryption settings, and other parameters.
 - ### Step 4:
