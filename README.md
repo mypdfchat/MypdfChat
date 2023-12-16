@@ -13,11 +13,9 @@
 - ### Step 2:
 - Extract the Release1. Locate the downloaded `mychatpdf-vX.X.X.zip` file on your system.2. Extract the contents of the zip file to a directory of your choice.
 - ### Step 3:
-- Configure RWKV1. Open the extracted directory.2. Locate the `config.yaml` file and open it in a text editor.3. Customize the configuration options according to your preferences. You can specify the desired PDF template, encryption settings, and other parameters.
-- ### Step 4:
-- Run RWKV1. Open your terminal or command prompt.2. Navigate to the directory where you extracted the release files.3. Run the following command to start RWKV:   ````   python rwkv.py   ```4. Once the application is running, access it by opening your web browser and visiting `http://localhost:8000`.
+- double click the MyPdfchat.exe
 ## Usage1.
-- Open your web browser and go to `http://localhost:8000`.2. Create a new chat session or join an existing one using the provided options.3. Start chatting within the PDF document.4. Your conversations are encrypted and stored locally on your machine.
+- chat with you PDF file
 ## Contributions
 - Contributions to RWKV are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/your-username/rwkv).
 ## License
