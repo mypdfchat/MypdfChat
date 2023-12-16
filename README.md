@@ -1,6 +1,6 @@
-# RWKV - Private PDF Chat Model
+# MyPdfChat - Private PDF Chat based on local model can run any PC.
 
-![Mypdfchat Logo]()RWKV (Read, Write, Keep, Verify) is a private language model designed to run locally and facilitate secure PDF-based chat conversations. With RWKV, you can have confidential and encrypted conversations in PDF format, ensuring the privacy of your discussions.
+![Mypdfchat Logo]()MyPdfChat is using a private language model designed to run locally and facilitate secure PDF-based chat conversations. With RWKV, you can have confidential and encrypted conversations in PDF format, ensuring the privacy of your discussions.
 ## Features
 - **Privacy**: RWKV runs locally on your machine, ensuring that your conversations remain private and secure.
 - **PDF Chat**: RWKV enables you to have chat conversations within PDF documents, providing a unique and secure communication method.
